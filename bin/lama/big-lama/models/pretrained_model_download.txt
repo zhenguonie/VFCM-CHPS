@@ -1,0 +1,1 @@
+You can download the best pretrained LAMA model from https://github.com/advimman/lama. 
