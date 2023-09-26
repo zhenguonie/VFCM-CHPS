@@ -1,0 +1,1 @@
+The flattened point cloud and projected image of the surface are saved in here. 
