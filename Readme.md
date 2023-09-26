@@ -7,7 +7,7 @@ of the flattening process under the pressure of two parallel flatbeds.**
 
 [Project Page]() [arXiv]() [BibTeX]()
 
-![结果图](https://www.z4a.net/image/result-3.VFWh3H)</center>
+![结果图](https://www.z4a.net/images/2023/09/26/result_3.png)</center>
 
 # Environment setup
 
