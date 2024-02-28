@@ -1,4 +1,4 @@
-# <center> A Virtual Flatbed Compressing Method for Severely Wrinkled Surface Flattening Based on Electrostatic Relaxation with Coulomb-Hooke-Particle System
+# <center> Advancements in Dewarping 3D Severely Wrinkled Surfaces to 2D Planes: A Novel Approach Employing the Virtual Flatbed Compressing Method with Coulomb-Hooke-Particle System
 
 by Zhenguo nie, Handing Xu, Yunzhi Chen, Yaguan Li, Yanjie Xu, Meifeng Deng, Levent Burak Kara, Xin-Jun Liu.
 
