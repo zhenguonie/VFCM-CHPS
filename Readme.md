@@ -1,5 +1,4 @@
-# <center> Advancements in Dewarping 3D Severely Wrinkled Surfaces to 2D Planes: A Novel Approach Employing the Virtual Flatbed Compressing Method with Coulomb-Hooke-Particle System
-
+# <center> Advanced Mobile Techniques for Dewarping Severely Wrinkled Documents to Flat Papers: Mimicking Flatbed Scanners for Enhanced Text Recognition
 by Zhenguo nie, Handing Xu, Yunzhi Chen, Yaguan Li, Yanjie Xu, Levent Burak Kara, Thomas R. Kurfess, and Xin-Jun Liu.
 
 <center>**The Virtual Flatbed Compressing Method (VFCM) flattens severely wrinkled surfaces based on the physical simulation
@@ -7,7 +6,7 @@ of the flattening process under the pressure of two parallel flatbeds.**
 
 [Project Page]() [arXiv]() [BibTeX]()
 
-![结果图](https://www.z4a.net/images/2023/09/26/result_3.png)</center>
+![result](https://www.z4a.net/images/2023/09/26/result_3.png)</center>
 
 # Environment setup
 
